@@ -1,4 +1,19 @@
 
+html {
+  font-size: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
-  
+  margin: 0;
+  padding: 0;
+  background-color: rgb(241, 232, 232);
+  color: #333;
+}
+
+p {
+  font-size: 1.6rem;
 }
